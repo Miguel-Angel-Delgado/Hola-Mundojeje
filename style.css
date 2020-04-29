@@ -6,6 +6,10 @@ header{
 	background: white;
 	padding: 1em;
 }
+footer {
+	clear: both;
+	text-align: center;
+}
 
 .menu {
 	font-size: 24px;
